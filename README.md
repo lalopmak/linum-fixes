@@ -1,6 +1,8 @@
 linum-fixes
 ===========
 
+NOTE: outdated/not needed if using nlinum.
+
 Some minor fixes for linum.  GPLv3 (see license file).
 
 Disclaimer
